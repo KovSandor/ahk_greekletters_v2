@@ -84,4 +84,4 @@ Credits to [Exaskryz](https://autohotkey.com/boards/viewtopic.php?f=5&t=25218).
 | `Shift + 6`         | √      | Square Root          | U+221A  |
 | `-`                 | –      | En-dash              | U+2013  |
 | `Shift + -` ( `_` ) | —      | Em-dash              | U+2014  |
-| `Right Alt + *`     | ×      | Multiplication Sign  | U+00D7  |
+| `Right Alt + -` (`*`)     | ×      | Multiplication Sign  | U+00D7  |
