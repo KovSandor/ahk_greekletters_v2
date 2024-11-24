@@ -4,12 +4,14 @@ This AHK script is a nice solution for the question ["Fastest way to type greek 
 
 To get capitalized letters, activate <kbd>⇪ Capslock</kbd>, then hold <kbd>Shift</kbd> and press the letter you need. 
 
-Credits to [Exaskryz](https://autohotkey.com/boards/viewtopic.php?f=5&t=25218).
+Credits to [Exaskryz](https://autohotkey.com/boards/viewtopic.php?f=5&t=25218) for the original script and to [q2apro](https://github.com/q2apro) for the implementation and documentation on GitHub.
+
+This fork adapts the script to AutoHotkey v2, adds arrow symbols and some special characters.
 
 ## AHK Installation
 
   1. Download [AutoHotkey v2](https://www.autohotkey.com/download/) and install it. 
-  2. Download the [script `greekletters_v2.ahk`](./greekletters_v2.ahk)
+  2. Download the script [`greekletters_v2.ahk`](./greekletters_v2.ahk)
   3. Put the script into a folder of your choice. 
   4. Start the script `greekletters_v2.ahk` 
 
@@ -83,5 +85,5 @@ Credits to [Exaskryz](https://autohotkey.com/boards/viewtopic.php?f=5&t=25218).
 | `Shift + 3`         | ±      | Plus-Minus           | U+00B1  |
 | `Shift + 6`         | √      | Square Root          | U+221A  |
 | `-`                 | –      | En-dash              | U+2013  |
-| `Shift + -` ( `_` ) | —      | Em-dash              | U+2014  |
+| `Shift + -` (`_`) | —      | Em-dash              | U+2014  |
 | `Right Alt + -` (`*`)     | ×      | Multiplication Sign  | U+00D7  |
